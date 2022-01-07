@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-085-computational-science-and-engineering-i-fall-2008/816c586f09f257c7bc1247b804089b1d_CgfkEUOFAj0.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 816c586f-09f2-57c7-bc12-47b804089b1d
+---
